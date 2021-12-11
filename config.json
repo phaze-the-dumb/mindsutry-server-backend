@@ -1,0 +1,7 @@
+{
+    "prefix": "m!",
+    "token": "Bot Token Here",
+    "port": "6567",
+    "linkedChannel": "Linked Channel ID Here",
+    "ip": "Server IP"
+}

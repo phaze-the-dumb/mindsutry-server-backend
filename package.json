@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "mindustry-schematic-parser": "^4.0.4",
+    "strip-ansi": "^7.0.1"
+  }
+}

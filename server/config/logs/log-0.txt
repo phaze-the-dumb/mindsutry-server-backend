@@ -1,0 +1,2 @@
+[12-11-2021 14:35:19] [I] Server loaded. Type 'help' for help.
+[12-11-2021 14:35:24] [I] port set to 2000.
